@@ -478,3 +478,13 @@
     padding-right: 0;
     border-right: none;
 }
+
+
+@media screen and (max-width: 800px) {
+ .logobadag{
+    margin-top: -8rem;
+ }
+ #varian{
+    margin-top: -5rem;
+ }
+}
